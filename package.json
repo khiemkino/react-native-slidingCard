@@ -1,6 +1,6 @@
 {
   "name": "react-native-slidingcard",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "support for sliding card like wallet apple pay",
   "main": "index.js",
   "directories": {

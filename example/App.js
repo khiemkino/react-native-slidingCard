@@ -13,7 +13,7 @@ const imgSample5 = require('./img/poppy.jpg')
 const dataSample = [{ key: 0, image: imgSample1 }, { key: 1, image: imgSample2 },
 { key: 2, image: imgSample3 }, { key: 3, image: imgSample4 }, { key: 4, image: imgSample5 }]
 
-export default class App extends PureComponent {
+export default class Example extends PureComponent {
 
   _onpressSample() {
     alert('Hello to amazing react native')
