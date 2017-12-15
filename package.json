@@ -1,0 +1,36 @@
+{
+  "name": "react-native-slidingcard",
+  "version": "0.0.1",
+  "description": "support for sliding card like wallet apple pay",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khiemkino/react-native-slidingCard.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "wallet",
+    "applepay",
+    "payment",
+    "leagugeoflegend",
+    "lol",
+    "sliding",
+    "slide",
+    "card",
+    "cards",
+    "swipe"
+  ],
+  "author": "khiemkino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khiemkino/react-native-slidingCard/issues"
+  },
+  "homepage": "https://github.com/khiemkino/react-native-slidingCard#readme"
+}
