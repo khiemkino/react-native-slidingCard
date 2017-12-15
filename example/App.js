@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react';
 import { View, StyleSheet, Dimensions } from 'react-native';
 
-import SlidingUpCard from './src'
+import SlidingUpCard from 'react-native-slidingcard'
 const width = num => Dimensions.get('window').width * (num / 100)
 const height = num => Dimensions.get('window').height * (num / 100)
 
