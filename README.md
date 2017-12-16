@@ -83,5 +83,6 @@ const styles = StyleSheet.create({
 ## Next version()
 
 Any suggestion and contributions are welcome. 
-Please contact me if you get anything error - Email: khiemkino@gmail.com.
-                                            - Facebook:https://www.facebook.com/khiemdn
+Please contact me if you get anything error 
+- Email: khiemkino@gmail.com.
+- Facebook:https://www.facebook.com/khiemdn
