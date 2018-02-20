@@ -3,11 +3,11 @@
 
 ## Installation
 ```
-npm install react-native-slidingCard --save
+npm install react-native-slidingcard --save
 ```
 or
 ```
-yarn add react-native-slidingCard
+yarn add react-native-slidingcard
 ```
 
 ## Preview
