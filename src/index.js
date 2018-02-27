@@ -97,8 +97,7 @@ export default class SlidingUpCard extends Component {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
-    backgroundColor: '#F5FCFF',
+    flex: 1
   },
   topContainer: {
     top: height(ISIOS ? 4.5 : 1.5),
